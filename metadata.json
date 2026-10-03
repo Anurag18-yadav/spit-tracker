@@ -1,0 +1,6 @@
+{
+  "name": "Expense Split",
+  "description": "Minimal, clean, modern expense split app with 5 screens: Home, Add Expense, Settlement, Breakdown, and Settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
